@@ -1,0 +1,13 @@
+C:\Users\Lervis Pinales\Desktop\v6\bin\Debug\netcoreapp3.1\v6.exe
+C:\Users\Lervis Pinales\Desktop\v6\bin\Debug\netcoreapp3.1\v6.deps.json
+C:\Users\Lervis Pinales\Desktop\v6\bin\Debug\netcoreapp3.1\v6.runtimeconfig.json
+C:\Users\Lervis Pinales\Desktop\v6\bin\Debug\netcoreapp3.1\v6.runtimeconfig.dev.json
+C:\Users\Lervis Pinales\Desktop\v6\bin\Debug\netcoreapp3.1\v6.dll
+C:\Users\Lervis Pinales\Desktop\v6\bin\Debug\netcoreapp3.1\v6.pdb
+C:\Users\Lervis Pinales\Desktop\v6\obj\Debug\netcoreapp3.1\v6.csprojAssemblyReference.cache
+C:\Users\Lervis Pinales\Desktop\v6\obj\Debug\netcoreapp3.1\v6.AssemblyInfoInputs.cache
+C:\Users\Lervis Pinales\Desktop\v6\obj\Debug\netcoreapp3.1\v6.AssemblyInfo.cs
+C:\Users\Lervis Pinales\Desktop\v6\obj\Debug\netcoreapp3.1\v6.csproj.CoreCompileInputs.cache
+C:\Users\Lervis Pinales\Desktop\v6\obj\Debug\netcoreapp3.1\v6.dll
+C:\Users\Lervis Pinales\Desktop\v6\obj\Debug\netcoreapp3.1\v6.pdb
+C:\Users\Lervis Pinales\Desktop\v6\obj\Debug\netcoreapp3.1\v6.genruntimeconfig.cache
